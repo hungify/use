@@ -5,7 +5,9 @@ Things I am using
 ## Editor
 
 - Editor: [VS Code](https://code.visualstudio.com/)
-- Fonts: [Input Mono](https://input.djr.com/) and [MonoLisa](https://www.monolisa.dev)
+- Fonts:
+  - Code: [MonoLisa](https://www.monolisa.dev)
+  - Terminal: [Fira Code](https://github.com/tonsky/FiraCode)
 - Theme: [Halcyon Theme](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
 - File Icons: [Material Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
@@ -18,6 +20,8 @@ Things I am using
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Spell check
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Ad blocker
 - [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - Cookie manager
+- [Fast Forward](https://fastforward.team/) - Bypass annoying link shorteners
+- [Nodium](https://chrome.google.com/webstore/detail/nodium/hodeadlnpkejccdpdcaaockiieakemgg) - Bypass Medium paywall
 
 ## MacOS Productivity
 
@@ -27,12 +31,12 @@ Things I am using
 - [Arc Browser](https://arc.net) - Modern browser
 - [The Unarchiver](https://theunarchiver.com/) - Unarchiver
 - [Mos](https://mos.caldis.me/) - Cursor Enhancer
-- [AODente](https://apphousekitchen.com)- Charge limiter
+- [AIDente](https://apphousekitchen.com)- Charge limiter
 - [EVKey](https://evkeyvn.com/) - Vietnamese keyboard
-- [Command X](https://sindresorhus.com/command-x) - The missing Cut feature for finder
 - [Rectangle](https://rectangleapp.com/) - Window Manager
 - [Pasty](https://apps.apple.com/vn/app/clipboard-manager-pasty/id1544620654?mt=12) - Clipboard Manager
 - [Shotr](https://shottr.cc/) - Screenshot Manager
+- [AltTab](https://alt-tab-macos.netlify.app/) - Alt Tab for MacOS
 
 ## Design / Social Media
 
@@ -50,3 +54,4 @@ Things I am using
 - [`fnm`](https://github.com/Schniz/fnm) - Node version manager
 - [`starship`](https://starship.rs/) - Shell prompt
 - [`czg`](https://github.com/Zhengqbbb/cz-git) - Git commitizen
+- [`brew`](https://brew.sh/) - Package manager for MacOS
