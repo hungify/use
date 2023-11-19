@@ -4,11 +4,12 @@ Things I am using
 
 ## Editor
 
-- Editor: [VS Code](https://code.visualstudio.com/)
+- Editor:
+  - [VS Code](https://code.visualstudio.com)
+  - [Zed](https://zed.dev)
 - Fonts:
-  - Code: [MonoLisa](https://www.monolisa.dev)
-  - Terminal: [Fira Code](https://github.com/tonsky/FiraCode)
-- Theme: [Halcyon Theme](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
+  - [Monaspace Argon](https://github.com/githubnext/monaspace)
+- Theme: [Vitesse Dark Soft](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse)
 - File Icons: [Material Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ## Chrome Extensions
@@ -21,7 +22,6 @@ Things I am using
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Ad blocker
 - [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - Cookie manager
 - [Fast Forward](https://fastforward.team/) - Bypass annoying link shorteners
-- [Nodium](https://chrome.google.com/webstore/detail/nodium/hodeadlnpkejccdpdcaaockiieakemgg) - Bypass Medium paywall
 
 ## MacOS Productivity
 
@@ -35,8 +35,9 @@ Things I am using
 - [EVKey](https://evkeyvn.com/) - Vietnamese keyboard
 - [Rectangle](https://rectangleapp.com/) - Window Manager
 - [Pasty](https://apps.apple.com/vn/app/clipboard-manager-pasty/id1544620654?mt=12) - Clipboard Manager
-- [Shotr](https://shottr.cc/) - Screenshot Manager
+- [CleanshotX](https://cleanshot.com/) - Screenshot Manager
 - [AltTab](https://alt-tab-macos.netlify.app/) - Alt Tab for MacOS
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Keyboard customizer for macOS.
 
 ## Design / Social Media
 
