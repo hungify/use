@@ -9,7 +9,7 @@ Things I am using
   - [Zed](https://zed.dev)
 - Fonts:
   - [Monaspace Argon](https://github.com/githubnext/monaspace)
-- Theme: [Vitesse Dark Soft](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse)
+- Theme: [Pace Theme](https://marketplace.visualstudio.com/items?itemName=fabian-hiller.pace-theme)
 - File Icons: [Material Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ## Chrome Extensions
@@ -31,13 +31,13 @@ Things I am using
 - [Arc Browser](https://arc.net) - Modern browser
 - [The Unarchiver](https://theunarchiver.com/) - Unarchiver
 - [Mos](https://mos.caldis.me/) - Cursor Enhancer
-- [AIDente](https://apphousekitchen.com)- Charge limiter
+- [BatFi](https://micropixels.software/apps/batfi)- Charge limiter
 - [EVKey](https://evkeyvn.com/) - Vietnamese keyboard
-- [Rectangle](https://rectangleapp.com/) - Window Manager
 - [Pasty](https://apps.apple.com/vn/app/clipboard-manager-pasty/id1544620654?mt=12) - Clipboard Manager
 - [CleanshotX](https://cleanshot.com/) - Screenshot Manager
 - [AltTab](https://alt-tab-macos.netlify.app/) - Alt Tab for MacOS
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Keyboard customizer for macOS.
+- [Folder Hub](https://www.finderhub.app/#download) - An enhancement of Finder
 
 ## Design / Social Media
 
